@@ -5,14 +5,16 @@ import os
 
 text = '#\n'
 
-for file in [
-    'telegram',
-    'github',
-    'python',
-    'discord',
-]:
+for file, link in {
+    'telegram': 'https://t.me/gmanka',
+    'github': 'https://github.com/gmankab',
+    'python': 'https://python.org',
+    'discord': 'https://discordapp.com/users/396578935540023296',
+}.items():
     text += f'''
-<img
+<a
+    href="{link}"
+    ><img
     src="icons/{file}.png"
     height = 30
     >  '''

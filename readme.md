@@ -1,18 +1,26 @@
 #
 
-<img
+<a
+    href="https://t.me/gmanka"
+    ><img
     src="icons/telegram.png"
     height = 30
     >  
-<img
+<a
+    href="https://github.com/gmankab"
+    ><img
     src="icons/github.png"
     height = 30
     >  
-<img
+<a
+    href="https://python.org"
+    ><img
     src="icons/python.png"
     height = 30
     >  
-<img
+<a
+    href="https://discordapp.com/users/396578935540023296"
+    ><img
     src="icons/discord.png"
     height = 30
     >  
