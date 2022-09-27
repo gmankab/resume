@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 150.00001 29.999999"
+   xml:space="preserve"
+   id="svg94"
+   sodipodi:docname="telegram.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   width="150"
+   height="30"
+   inkscape:export-filename="telegram.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs98"><inkscape:path-effect
+     effect="fillet_chamfer"
+     id="path-effect727"
+     is_visible="true"
+     lpeversion="1"
+     nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,18.513526,0,1 @ F,0,0,1,0,8.5520481,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+     unit="px"
+     method="auto"
+     mode="F"
+     radius="0"
+     chamfer_steps="1"
+     flexible="false"
+     use_knot_distance="true"
+     apply_no_radius="true"
+     apply_with_radius="true"
+     only_selected="false"
+     hide_knots="false" /><inkscape:path-effect
+     effect="offset"
+     id="path-effect725"
+     is_visible="true"
+     lpeversion="1.2"
+     linejoin_type="miter"
+     unit="px"
+     offset="0"
+     miter_limit="4"
+     attempt_force_join="false"
+     update_on_knot_move="true" /><clipPath
+     id="clip0"><rect
+       width="71"
+       height="55"
+       fill="#ffffff"
+       id="rect1030"
+       x="0"
+       y="0" /></clipPath></defs><sodipodi:namedview
+   id="namedview96"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#000000"
+   showgrid="false"
+   inkscape:zoom="4"
+   inkscape:cx="70.625"
+   inkscape:cy="34.125"
+   inkscape:window-width="1920"
+   inkscape:window-height="1003"
+   inkscape:window-x="0"
+   inkscape:window-y="40"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg94" />
+<style
+   type="text/css"
+   id="style74">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#2091C0;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'JetBrainsMono-Medium';}
+	.st5{font-size:47.0914px;}
+</style>
+
+
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="background"
+   style="display:inline"><rect
+     style="fill:#2091c0;fill-opacity:1;stroke-width:0.748471"
+     id="rect1506"
+     width="150"
+     height="30"
+     x="0"
+     y="0"
+     ry="15"
+     inkscape:label="color_rounded" /></g><g
+   id="Слой_2"
+   transform="matrix(0.5 0 0 0.5 -1.06732 2.23641)"
+   inkscape:label="foreground"
+   style="display:inline">
+	
+<text
+   xml:space="preserve"
+   style="font-size:44.1989px;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline';display:inline;fill:#ffffff;stroke-width:1.38121"
+   x="79.747894"
+   y="37.129383"
+   id="text227"
+   inkscape:label="text"><tspan
+     sodipodi:role="line"
+     id="tspan225"
+     x="0"
+     y="0"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.1989px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:1.38121">@gmanka</tspan></text><path
+   class="st3"
+   d="M 25.34144,22.676855 C 40.140183,16.192869 59.287018,8.2595212 61.956889,7.1915702 c 6.941679,-2.8987226 9.077585,-2.2884647 8.009632,4.0429568 -0.762827,4.576931 -2.975007,19.757088 -4.729498,29.139796 -1.067952,5.568601 -3.35641,6.255139 -7.017956,3.81411 -1.754493,-1.144233 -10.679516,-7.017961 -12.58657,-8.467323 -1.754488,-1.296799 -4.195518,-2.746161 -1.14423,-5.721165 1.067954,-1.067949 8.162197,-7.857063 13.7308,-13.120536 0.762815,-0.68654 -0.152571,-1.830773 -0.991678,-1.296798 -7.475644,4.958342 -17.850027,11.82374 -19.146825,12.739128 -1.983337,1.373078 -3.890393,1.983335 -7.323093,0.991667 -2.593592,-0.762821 -5.110905,-1.601926 -6.102573,-1.983338 -3.890392,-1.296797 -2.975006,-2.975004 0.686542,-4.653213 z"
+   id="path89"
+   style="fill:#ffffff;stroke-width:0.762821"
+   inkscape:label="logo" /></g></svg>
