@@ -86,17 +86,17 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 ### My projects[^](#in-english)
 
-[reposter](https://github.com/gmankab/reposter) - a script for forwarding messages from one telegram channel to another, saves the history of post edits in the comments, and marks the message as deleted if it is deleted. There is support for messages with multiple attachments. Simple, intuitive start-up and setup
+[reposter](https://github.com/gmankab/reposter) - a script for forwarding messages from one telegram channel to another in real time, saves the history of post edits in the comments, marks the message as deleted if it is deleted, and also notifies when a stream has started in the channel. There is support for messages with multiple attachments. Simple, intuitive and setup and launching
 
-[yt_stream_recorder](https://github.com/gmankab/yt_stream_recorder) - a lightweight script for recording YouTube streams. You only need to run it once, and while it is running it will record all streams on the selected channel
+[yt_stream_recorder](https://github.com/gmankab/yt_stream_recorder) - a script for recording YouTube streams. You only need to run it once, and while it is running it will record all streams on the selected channel
 
 [suggest](https://github.com/gmankab/suggest) - a bot that allows you to suggest posts to telegram channels. It is possible to ban a user so that he can no longer suggesting posts, and you can choose the time for which the user will be banned. There is support for messages with multiple attachments
 
-[betterdata](https://github.com/gmankab/betterdata) - lightweight library for working with data. Features: automatic writing to disk when new data is added to an object, quick export to yml
+[betterdata](https://github.com/gmankab/betterdata) - a library for working with data. Features: automatic writing to disk when new data is added to an object, quick export to yml
 
-[PrettyGit](https://github.com/gmankab/PrettyGit) - user-friendly interface for git, supports commits, pushes, and uploading to [pipy.org](https://pypi.org)
+[PrettyGit](https://github.com/gmankab/PrettyGit) - a user-friendly interface for git, supports commits, pushes, and uploading to [pipy.org](https://pypi.org)
 
-[easyselect](https://github.com/gmankab/easyselect) is a useful library that allows the user to select between multiple items in the console using the keyboard. Supports very long lists that don't fit on the screen, [rich styles](https://rich.readthedocs.io/en/stable/style.html), control with buttons `up`, `down`, `left`, `right`, `wasd`, `j`, `h`, `home`, `end`, `page up`, `page down`
+[easyselect](https://github.com/gmankab/easyselect) - a useful library that allows the user to select between multiple items in the console using the keyboard. Supports very long lists that don't fit on the screen, [rich styles](https://rich.readthedocs.io/en/stable/style.html), control with buttons `up`, `down`, `left`, `right`, `wasd`, `j`, `h`, `home`, `end`, `page up`, `page down`
 
 ## На русском[^](#translation)
 
@@ -155,11 +155,11 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 [reposter](https://github.com/gmankab/reposter) - скрипт для пересылки сообщений из одного телеграм канала в другой, сохраняет в комментарии историю редактирований поста, и помечает сообщение ка удаленное, если оно удалено. Имеется поддержка сообщений с несколькими вложениями. Простой интуитивно понятный запуск и настройка
 
-[yt_stream_recorder](https://github.com/gmankab/yt_stream_recorder) - легкий скрипт для записи стримов с ютуба. Нужно запустить всего один раз, и пока он запущен он будет записывать все стримы на выбранном канале
+[yt_stream_recorder](https://github.com/gmankab/yt_stream_recorder) - скрипт для записи стримов с ютуба. Нужно запустить всего один раз, и пока он запущен он будет записывать все стримы на выбранном канале
 
 [suggest](https://github.com/gmankab/suggest) - бот, который позволяет предлагать посты в телеграм каналы. Есть возможность забанить юзера чтобы он больше не мог предлагать посты, можно выбрать время на которое юзер будет забанен. Имеется поддержка сообщений с несколькими вложениями
 
-[betterdata](https://github.com/gmankab/betterdata) - легкая библиотека для работы с данными. Фичи: автоматическая запись на диск при добавлении новых данных в объект, быстрый экспорт в yml
+[betterdata](https://github.com/gmankab/betterdata) - библиотека для работы с данными. Фичи: автоматическая запись на диск при добавлении новых данных в объект, быстрый экспорт в yml
 
 [PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдли интерфейс для git, поддерживает коммиты, пуши, деплой на [pipy.org](https://pypi.org)
 
@@ -222,11 +222,11 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 [reposter](https://github.com/gmankab/reposter) - скрипт для пересилання повідомлень з одного телеграм каналу в інший, зберігає в коментарі історію редагування посту, і позначає повідомлення як віддалене, якщо воно видалено. Простий інтуїтивно зрозумілий запуск та налаштування
 
-[yt_stream_recorder](https://github.com/gmankab/yt_stream_recorder) - легкий скрипт для запису стримів з ютуба. Потрібно запустити лише один раз, і поки він запущений він буде записувати всі стрими на вибраному каналі
+[yt_stream_recorder](https://github.com/gmankab/yt_stream_recorder) - скрипт для запису стримів з ютуба. Потрібно запустити лише один раз, і поки він запущений він буде записувати всі стрими на вибраному каналі
 
 [suggest](https://github.com/gmankab/suggest) - бот, який дозволяє пропонувати пости в канал. Є можливість забанить юзера щоб він більше не міг пропонувати пости, можна вибрати час, на який юзер буде забанен. Є підтримка повідомлень з кількома вкладеннями
 
-[betterdata](https://github.com/gmankab/betterdata) – легка бібліотека для роботи з даними. Фічі - автоматичний запис на диск при додаванні нових даних в об'єкт, швидкий експорт до yml
+[betterdata](https://github.com/gmankab/betterdata) – бібліотека для роботи з даними. Фічі - автоматичний запис на диск при додаванні нових даних в об'єкт, швидкий експорт до yml
 
 [PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдлі інтерфейс для git, підтримує коммиты, пуші, деплой на [pipy.org](https://pypi.org)
 
