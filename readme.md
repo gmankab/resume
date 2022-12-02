@@ -94,9 +94,9 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 [betterdata](https://github.com/gmankab/betterdata) - lightweight library for working with data. Features: automatic writing to disk when new data is added to an object, quick export to yml
 
-[PrettyGit](https://github.com/gmankab/PrettyGit) - user-friendly interface for git, supports commits, pushes, it is possible to add a remote. Read more in the documentation
+[PrettyGit](https://github.com/gmankab/PrettyGit) - user-friendly interface for git, supports commits, pushes, and uploading to [pipy.org](https://pypi.org)
 
-[easyselect](https://github.com/gmankab/easyselect) is a useful library that allows the user to select between multiple items in the console using the keyboard
+[easyselect](https://github.com/gmankab/easyselect) is a useful library that allows the user to select between multiple items in the console using the keyboard. Supports very long lists that don't fit on the screen, [rich styles](https://rich.readthedocs.io/en/stable/style.html), control with buttons `up`, `down`, `left`, `right`, `wasd`, `j`, `h`, `home`, `end`, `page up`, `page down`
 
 ## На русском[^](#translation)
 
@@ -161,9 +161,9 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 [betterdata](https://github.com/gmankab/betterdata) - легкая библиотека для работы с данными. Фичи: автоматическая запись на диск при добавлении новых данных в объект, быстрый экспорт в yml
 
-[PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдли интерфейс для git, поддерживает коммиты, пуши, есть возможность добавить remote. Подробнее в документации
+[PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдли интерфейс для git, поддерживает коммиты, пуши, деплой на [pipy.org](https://pypi.org)
 
-[easyselect](https://github.com/gmankab/easyselect) - удобная библиотека, которая дает пользователю сделать выбор между несколькими элементами в консоли с помощью клавиатуры
+[easyselect](https://github.com/gmankab/easyselect) - удобная библиотека, которая дает пользователю сделать выбор между несколькими элементами в консоли с помощью клавиатуры. Поддерживает очень длинные списки, не помещающиеся на экран, [rich styles](https://rich.readthedocs.io/en/stable/style.html), управление кнопками `up`, `down`, `left`, `right`, `wasd`, `j`, `h`, `home`, `end`, `page up`, `page down`
 
 ## Українською[^](#translation)
 
@@ -176,7 +176,7 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 ### Контакти[^](#українською)
 
-- [t.me/gmanka](https://t.me/gmanka) - акаунт в телеграмі
+- [t.me/gmanka](https://t.me/gmanka) - аккаунт в телеграмі
 - [t.me/gmankab](https://t.me/gmankab) - канал в телеграмі
 - [gmanka#3806](https://discordapp.com/users/396578935540023296) - дiискорд
 - [gmankab@gmail.com](https://gmankab@gmail.com) - пошта
@@ -228,6 +228,6 @@ I have 4 years of python programming experience and 2 years of gnu/linux experie
 
 [betterdata](https://github.com/gmankab/betterdata) – легка бібліотека для роботи з даними. Фічі - автоматичний запис на диск при додаванні нових даних в об'єкт, швидкий експорт до yml
 
-[PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдлі інтерфейс для git, підтримує коммиты, пуші, можна додати remote. Докладніше у документації
+[PrettyGit](https://github.com/gmankab/PrettyGit) - юзер-френдлі інтерфейс для git, підтримує коммиты, пуші, деплой на [pipy.org](https://pypi.org)
 
-[easyselect](https://github.com/gmankab/easyselect) - зручна бібліотека, яка дає користувачеві зробити вибір між кількома елементами в консолі за допомогою клавіатури
+[easyselect](https://github.com/gmankab/easyselect) - зручна бібліотека, яка дає користувачеві зробити вибір між кількома елементами в консолі за допомогою клавіатури. Підтримує дуже довгі списки, що не поміщаються на екран, [rich styles] (https://rich.readthedocs.io/en/stable/style.html), управління кнопками `up`, `down`, `left`, `right`, `wasd`, `j`, `h`, `home`, `end`, `page up`, `page down`
